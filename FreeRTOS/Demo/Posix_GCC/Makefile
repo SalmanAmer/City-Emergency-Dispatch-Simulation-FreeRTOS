@@ -16,7 +16,6 @@ INCLUDE_DIRS          := -I.
 INCLUDE_DIRS          += -I./Trace_Recorder_Configuration
 INCLUDE_DIRS          += -I./lib/include
 INCLUDE_DIRS          += -I./myProject
-INCLUDE_DIRS          += -I./Practice
 INCLUDE_DIRS          += -I./RT_Project
 INCLUDE_DIRS          += -I${KERNEL_DIR}/include
 INCLUDE_DIRS          += -I${KERNEL_DIR}/portable/ThirdParty/GCC/Posix
