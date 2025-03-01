@@ -25,7 +25,7 @@ This project is a simulation of a city emergency dispatch system that manages em
    ```
 2. Navigate to the project folder:
    ```sh
-   cd FreeRTOS-main/FreeRTOS/Demo/Posix_GCC
+   cd FreeRTOS-main/FreeRTOS/Demo/Posix_GCC/RT_Project
    ```
 3. Compile and run the project:
    ```sh
