@@ -1,0 +1,116 @@
+Received call with ID 2 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 1 ticks. The task was completed.
+Received call with ID 3 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 4 ticks. The task was completed.
+Received call with ID 7 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 7 ticks. The task was completed.
+Received call with ID 9 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 6 ticks. The task was completed.
+Received call with ID 13 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 4 ticks. The task was completed.
+Received call with ID 0 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 18 ticks. The task was completed.
+Received call with ID 1 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 19 ticks. The task was completed.
+Received call with ID 17 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 3 ticks. The task was completed.
+Received call with ID 11 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 11 ticks. The task was completed.
+Received call with ID 5 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 18 ticks. The task was completed.
+Received call with ID 10 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 13 ticks. The task was completed.
+Received call with ID 19 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 4 ticks. The task was completed.
+Received call with ID 6 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 7 ticks. The task was completed.
+Received call with ID 15 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 10 ticks. The task was completed.
+Received call with ID 4 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 19 ticks. The task was completed.
+Received call with ID 23 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 6 ticks. The task was completed.
+Received call with ID 22 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 8 ticks. The task was completed.
+Received call with ID 20 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 14 ticks. The task was completed.
+Received call with ID 21 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 13 ticks. The task was completed.
+Received call with ID 28 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 4 ticks. The task was completed.
+Received call with ID 33 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 4 ticks. The task was completed.
+Received call with ID 12 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 12 ticks. The task was completed.
+Received call with ID 25 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 14 ticks. The task was completed.
+Received call with ID 8 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 18 ticks. The task was completed.
+Received call with ID 29 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 14 ticks. The task was completed.
+Received call with ID 32 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 7 ticks. The task was completed.
+Received call with ID 40 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 3 ticks. The task was completed.
+Received call with ID 24 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 18 ticks. The task was completed.
+Received call with ID 30 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 8 ticks. The task was completed.
+Received call with ID 45 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 3 ticks. The task was completed.
+Received call with ID 31 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 13 ticks. The task was completed.
+Received call with ID 16 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 6 ticks. The task was completed.
+Received call with ID 34 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 9 ticks. The task was completed.
+Received call with ID 39 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 2 ticks. The task was completed.
+Received call with ID 37 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 7 ticks. The task was completed.
+Received call with ID 35 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 13 ticks. The task was completed.
+Received call with ID 14 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 19 ticks. The task was completed.
+Received call with ID 41 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 17 ticks. The task was completed.
+Received call with ID 36 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 15 ticks. The task was completed.
+Received call with ID 48 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 11 ticks. The task was completed.
+Received call with ID 42 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 18 ticks. The task was completed.
+Received call with ID 26 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 5 ticks. The task was completed.
+Received call with ID 46 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 7 ticks. The task was completed.
+Received call with ID 18 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 15 ticks. The task was completed.
+Received call with ID 52 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 5 ticks. The task was completed.
+Received call with ID 38 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 2 ticks. The task was completed.
+Received call with ID 51 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 8 ticks. The task was completed.
+Received call with ID 50 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 11 ticks. The task was completed.
+Received call with ID 47 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 14 ticks. The task was completed.
+Received call with ID 44 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 18 ticks. The task was completed.
+Received call with ID 27 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 11 ticks. The task was completed.
+Received call with ID 53 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 9 ticks. The task was completed.
+Received call with ID 49 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 18 ticks. The task was completed.
+Received call with ID 54 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 9 ticks. The task was completed.
+Received call with ID 64 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 6 ticks. The task was completed.
+Received call with ID 65 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 1 ticks. The task was completed.
+Received call with ID 56 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 17 ticks. The task was completed.
+Received call with ID 43 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 16 ticks. The task was completed.
+Received call with ID 59 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 17 ticks. The task was completed.
+Received call with ID 58 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 18 ticks. The task was completed.
+Received call with ID 68 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 9 ticks. The task was completed.
+Received call with ID 55 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 16 ticks. The task was completed.
+Received call with ID 70 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 9 ticks. The task was completed.
+Received call with ID 60 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 18 ticks. The task was completed.
+Received call with ID 79 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 4 ticks. The task was completed.
+Received call with ID 62 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 18 ticks. The task was completed.
+Received call with ID 57 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 13 ticks. The task was completed.
+Received call with ID 72 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 1 ticks. The task was completed.
+Received call with ID 61 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 20 ticks. The task was completed.
+Received call with ID 74 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 11 ticks. The task was completed.
+Received call with ID 71 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 12 ticks. The task was completed.
+Received call with ID 66 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 6 ticks. The task was completed.
+Received call with ID 78 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 14 ticks. The task was completed.
+Received call with ID 63 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 13 ticks. The task was completed.
+Received call with ID 69 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 11 ticks. The task was completed.
+Received call with ID 80 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 11 ticks. The task was completed.
+Received call with ID 75 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 9 ticks. The task was completed.
+Received call with ID 67 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 4 ticks. The task was completed.
+Received call with ID 83 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 7 ticks. The task was completed.
+Received call with ID 73 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 7 ticks. The task was completed.
+Received call with ID 76 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 14 ticks. The task was completed.
+Received call with ID 82 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 13 ticks. The task was completed.
+Received call with ID 87 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 8 ticks. The task was completed.
+Received call with ID 77 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 10 ticks. The task was completed.
+Received call with ID 85 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 10 ticks. The task was completed.
+Received call with ID 81 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 10 ticks. The task was completed.
+Received call with ID 84 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 14 ticks. The task was completed.
+Received call with ID 88 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 10 ticks. The task was completed.
+Received call with ID 90 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 7 ticks. The task was completed.
+Received call with ID 98 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 4 ticks. The task was completed.
+Received call with ID 97 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 5 ticks. The task was completed.
+Received call with ID 86 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 13 ticks. The task was completed.
+Received call with ID 105 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 1 ticks. The task was completed.
+Received call with ID 92 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 9 ticks. The task was completed.
+Received call with ID 89 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 14 ticks. The task was completed.
+Received call with ID 107 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 2 ticks. The task was completed.
+Received call with ID 100 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 3 ticks. The task was completed.
+Received call with ID 91 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 12 ticks. The task was completed.
+Received call with ID 93 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 19 ticks. The task was completed.
+Received call with ID 104 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 8 ticks. The task was completed.
+Received call with ID 94 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 19 ticks. The task was completed.
+Received call with ID 110 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 9 ticks. The task was completed.
+Received call with ID 99 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 15 ticks. The task was completed.
+Received call with ID 102 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 15 ticks. The task was completed.
+Received call with ID 112 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 4 ticks. The task was completed.
+Received call with ID 95 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 20 ticks. The task was completed.
+Received call with ID 106 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 17 ticks. The task was completed.
+Received call with ID 111 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 15 ticks. The task was completed.
+Received call with ID 96 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 20 ticks. The task was completed.
+Received call with ID 117 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 9 ticks. The task was completed.
+Received call with ID 113 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 16 ticks. The task was completed.
+Received call with ID 114 and  Code 3 ( fire department ) . A  free resource was allocated for the task, which lasted 16 ticks. The task was completed.
+Received call with ID 108 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 18 ticks. The task was completed.
+Received call with ID 124 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 4 ticks. The task was completed.
+Received call with ID 120 and  Code 1 ( police ) . A  free resource was allocated for the task, which lasted 7 ticks. The task was completed.
+Received call with ID 115 and  Code 2 ( ambulance ) . A  free resource was allocated for the task, which lasted 19 ticks. The task was completed.

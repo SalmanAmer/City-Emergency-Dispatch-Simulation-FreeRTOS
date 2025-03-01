@@ -1,0 +1,228 @@
+20) fire department: Couldn't send to queue! event is redirected !
+22) fire department: Couldn't send to queue! event is redirected !
+30) fire department: Couldn't send to queue! event is redirected !
+32) fire department: Couldn't send to queue! event is redirected !
+34) fire department: Couldn't send to queue! event is redirected !
+35) fire department: Couldn't send to queue! event is redirected !
+37) fire department: Couldn't send to queue! event is redirected !
+40) fire department: Couldn't send to queue! event is redirected !
+44) fire department: Couldn't send to queue! event is redirected !
+46) fire department: Couldn't send to queue! event is redirected !
+47) fire department: Couldn't send to queue! event is redirected !
+48) fire department: Couldn't send to queue! event is redirected !
+59) fire department: Couldn't send to queue! event is redirected !
+65) police: Couldn't send to queue! event is redirected !
+68) fire department: Couldn't send to queue! event is redirected !
+70) fire department: Couldn't send to queue! event is redirected !
+71) fire department: Couldn't send to queue! event is redirected !
+75) ambulance: Couldn't send to queue! event is redirected !
+76) ambulance: Couldn't send to queue! event is redirected !
+77) ambulance: Couldn't send to queue! event is redirected !
+78) fire department: Couldn't send to queue! event is redirected !
+79) fire department: Couldn't send to queue! event is redirected !
+81) ambulance: Couldn't send to queue! event is redirected !
+81) ambulance: All queues are full, event will wait ! !
+81) ambulance: Couldn't send to queue! event is redirected !
+82) ambulance: Couldn't send to queue! event is redirected !
+82) ambulance: All queues are full, event will wait ! !
+82) ambulance: Couldn't send to queue! event is redirected !
+82) ambulance: All queues are full, event will wait ! !
+82) ambulance: Couldn't send to queue! event is redirected !
+82) ambulance: All queues are full, event will wait ! !
+82) ambulance: Couldn't send to queue! event is redirected !
+82) ambulance: All queues are full, event will wait ! !
+0) police: Dispatcher Queue is full!
+ Waiting... !
+82) ambulance: Couldn't send to queue! event is redirected !
+82) ambulance: All queues are full, event will wait ! !
+0) police: Dispatcher Queue is full!
+ Waiting... !
+82) ambulance: Couldn't send to queue! event is redirected !
+82) ambulance: All queues are full, event will wait ! !
+0) police: Dispatcher Queue is full!
+ Waiting... !
+83) fire department: Couldn't send to queue! event is redirected !
+84) fire department: Couldn't send to queue! event is redirected !
+85) police: Couldn't send to queue! event is redirected !
+85) police: All queues are full, event will wait ! !
+85) police: Couldn't send to queue! event is redirected !
+87) police: Couldn't send to queue! event is redirected !
+87) police: All queues are full, event will wait ! !
+87) police: Couldn't send to queue! event is redirected !
+87) police: All queues are full, event will wait ! !
+87) police: Couldn't send to queue! event is redirected !
+87) police: All queues are full, event will wait ! !
+89) fire department: Couldn't send to queue! event is redirected !
+89) fire department: All queues are full, event will wait ! !
+89) fire department: Couldn't send to queue! event is redirected !
+90) ambulance: Couldn't send to queue! event is redirected !
+90) ambulance: All queues are full, event will wait ! !
+90) ambulance: Couldn't send to queue! event is redirected !
+91) police: Couldn't send to queue! event is redirected !
+92) ambulance: Couldn't send to queue! event is redirected !
+92) ambulance: All queues are full, event will wait ! !
+92) ambulance: Couldn't send to queue! event is redirected !
+93) police: Couldn't send to queue! event is redirected !
+93) police: All queues are full, event will wait ! !
+93) police: Couldn't send to queue! event is redirected !
+93) police: All queues are full, event will wait ! !
+93) police: Couldn't send to queue! event is redirected !
+93) police: All queues are full, event will wait ! !
+93) police: Couldn't send to queue! event is redirected !
+94) ambulance: Couldn't send to queue! event is redirected !
+94) ambulance: All queues are full, event will wait ! !
+95) ambulance: Couldn't send to queue! event is redirected !
+95) ambulance: All queues are full, event will wait ! !
+95) ambulance: Couldn't send to queue! event is redirected !
+96) fire department: Couldn't send to queue! event is redirected !
+96) fire department: All queues are full, event will wait ! !
+97) fire department: Couldn't send to queue! event is redirected !
+98) fire department: Couldn't send to queue! event is redirected !
+98) fire department: All queues are full, event will wait ! !
+98) fire department: Couldn't send to queue! event is redirected !
+98) fire department: All queues are full, event will wait ! !
+98) fire department: Couldn't send to queue! event is redirected !
+100) ambulance: Couldn't send to queue! event is redirected !
+101) police: Couldn't send to queue! event is redirected !
+101) police: All queues are full, event will wait ! !
+101) police: Couldn't send to queue! event is redirected !
+102) ambulance: Couldn't send to queue! event is redirected !
+102) ambulance: All queues are full, event will wait ! !
+102) ambulance: Couldn't send to queue! event is redirected !
+102) ambulance: All queues are full, event will wait ! !
+103) police: Couldn't send to queue! event is redirected !
+103) police: All queues are full, event will wait ! !
+103) police: Couldn't send to queue! event is redirected !
+103) police: All queues are full, event will wait ! !
+103) police: Couldn't send to queue! event is redirected !
+104) fire department: Couldn't send to queue! event is redirected !
+104) fire department: All queues are full, event will wait ! !
+104) fire department: Couldn't send to queue! event is redirected !
+105) fire department: Couldn't send to queue! event is redirected !
+105) fire department: All queues are full, event will wait ! !
+105) fire department: Couldn't send to queue! event is redirected !
+105) fire department: All queues are full, event will wait ! !
+0) police: Dispatcher Queue is full!
+ Waiting... !
+105) fire department: Couldn't send to queue! event is redirected !
+107) fire department: Couldn't send to queue! event is redirected !
+107) fire department: All queues are full, event will wait ! !
+107) fire department: Couldn't send to queue! event is redirected !
+107) fire department: All queues are full, event will wait ! !
+107) fire department: Couldn't send to queue! event is redirected !
+109) fire department: Couldn't send to queue! event is redirected !
+109) fire department: All queues are full, event will wait ! !
+110) fire department: Couldn't send to queue! event is redirected !
+110) fire department: All queues are full, event will wait ! !
+110) fire department: Couldn't send to queue! event is redirected !
+111) police: Couldn't send to queue! event is redirected !
+111) police: All queues are full, event will wait ! !
+111) police: Couldn't send to queue! event is redirected !
+112) police: Couldn't send to queue! event is redirected !
+112) police: All queues are full, event will wait ! !
+112) police: Couldn't send to queue! event is redirected !
+112) police: All queues are full, event will wait ! !
+113) fire department: Couldn't send to queue! event is redirected !
+113) fire department: All queues are full, event will wait ! !
+113) fire department: Couldn't send to queue! event is redirected !
+113) fire department: All queues are full, event will wait ! !
+0) police: Dispatcher Queue is full!
+ Waiting... !
+113) fire department: Couldn't send to queue! event is redirected !
+114) fire department: Couldn't send to queue! event is redirected !
+115) ambulance: Couldn't send to queue! event is redirected !
+115) ambulance: All queues are full, event will wait ! !
+117) police: Couldn't send to queue! event is redirected !
+117) police: All queues are full, event will wait ! !
+118) ambulance: Couldn't send to queue! event is redirected !
+118) ambulance: All queues are full, event will wait ! !
+120) police: Couldn't send to queue! event is redirected !
+120) police: All queues are full, event will wait ! !
+121) ambulance: Couldn't send to queue! event is redirected !
+121) ambulance: All queues are full, event will wait ! !
+121) ambulance: Couldn't send to queue! event is redirected !
+122) police: Couldn't send to queue! event is redirected !
+122) police: All queues are full, event will wait ! !
+122) police: Couldn't send to queue! event is redirected !
+122) police: All queues are full, event will wait ! !
+122) police: Couldn't send to queue! event is redirected !
+122) police: All queues are full, event will wait ! !
+122) police: Couldn't send to queue! event is redirected !
+122) police: All queues are full, event will wait ! !
+0) police: Dispatcher Queue is full!
+ Waiting... !
+122) police: Couldn't send to queue! event is redirected !
+123) police: Couldn't send to queue! event is redirected !
+123) police: All queues are full, event will wait ! !
+124) police: Couldn't send to queue! event is redirected !
+124) police: All queues are full, event will wait ! !
+124) police: Couldn't send to queue! event is redirected !
+125) fire department: Couldn't send to queue! event is redirected !
+126) ambulance: Couldn't send to queue! event is redirected !
+126) ambulance: All queues are full, event will wait ! !
+126) ambulance: Couldn't send to queue! event is redirected !
+127) ambulance: Couldn't send to queue! event is redirected !
+127) ambulance: All queues are full, event will wait ! !
+127) ambulance: Couldn't send to queue! event is redirected !
+127) ambulance: All queues are full, event will wait ! !
+128) ambulance: Couldn't send to queue! event is redirected !
+128) ambulance: All queues are full, event will wait ! !
+128) ambulance: Couldn't send to queue! event is redirected !
+128) ambulance: All queues are full, event will wait ! !
+0) police: Dispatcher Queue is full!
+ Waiting... !
+128) ambulance: Couldn't send to queue! event is redirected !
+129) police: Couldn't send to queue! event is redirected !
+129) police: All queues are full, event will wait ! !
+129) police: Couldn't send to queue! event is redirected !
+129) police: All queues are full, event will wait ! !
+0) police: Dispatcher Queue is full!
+ Waiting... !
+129) police: Couldn't send to queue! event is redirected !
+129) police: All queues are full, event will wait ! !
+0) police: Dispatcher Queue is full!
+ Waiting... !
+129) police: Couldn't send to queue! event is redirected !
+129) police: All queues are full, event will wait ! !
+0) police: Dispatcher Queue is full!
+ Waiting... !
+129) police: Couldn't send to queue! event is redirected !
+130) ambulance: Couldn't send to queue! event is redirected !
+130) ambulance: All queues are full, event will wait ! !
+130) ambulance: Couldn't send to queue! event is redirected !
+131) police: Couldn't send to queue! event is redirected !
+131) police: All queues are full, event will wait ! !
+131) police: Couldn't send to queue! event is redirected !
+131) police: All queues are full, event will wait ! !
+0) police: Dispatcher Queue is full!
+ Waiting... !
+131) police: Couldn't send to queue! event is redirected !
+131) police: All queues are full, event will wait ! !
+0) police: Dispatcher Queue is full!
+ Waiting... !
+131) police: Couldn't send to queue! event is redirected !
+132) police: Couldn't send to queue! event is redirected !
+132) police: All queues are full, event will wait ! !
+134) police: Couldn't send to queue! event is redirected !
+134) police: All queues are full, event will wait ! !
+134) police: Couldn't send to queue! event is redirected !
+134) police: All queues are full, event will wait ! !
+134) police: Couldn't send to queue! event is redirected !
+136) ambulance: Couldn't send to queue! event is redirected !
+136) ambulance: All queues are full, event will wait ! !
+136) ambulance: Couldn't send to queue! event is redirected !
+137) police: Couldn't send to queue! event is redirected !
+137) police: All queues are full, event will wait ! !
+137) police: Couldn't send to queue! event is redirected !
+137) police: All queues are full, event will wait ! !
+137) police: Couldn't send to queue! event is redirected !
+137) police: All queues are full, event will wait ! !
+0) police: Dispatcher Queue is full!
+ Waiting... !
+137) police: Couldn't send to queue! event is redirected !
+138) police: Couldn't send to queue! event is redirected !
+138) police: All queues are full, event will wait ! !
+139) ambulance: Couldn't send to queue! event is redirected !
+139) ambulance: All queues are full, event will wait ! !
+140) police: Couldn't send to queue! event is redirected !
+140) police: All queues are full, event will wait ! !
